@@ -4,4 +4,6 @@
 
 * Laboratory 2 (Steepest descent for nonlinear functions and application to Lotka-Volterra coefficients estimation)
 
-* Stochastic Optimization: exercises done in the stochastic optimization lectures
+* Stochastic Optimization
+  * Simulation based approaches
+  * Stochastic gradient descent and application to predictive maintainance
