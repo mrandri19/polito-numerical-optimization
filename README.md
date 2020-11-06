@@ -4,9 +4,13 @@
   
 ![](lab1.svg)
 
-## Laboratory 2 (Steepest descent for nonlinear functions and application to Lotka-Volterra coefficients estimation)
+## Laboratory 2,3 (Steepest descent for nonlinear functions and application to Lotka-Volterra coefficients estimation)
 
 ![](lab2.svg)
+
+## Laboratory 4 (Backtracking method for finding steepest descent step)
+
+![](Lab4.svg)
 
 ## Stochastic Optimization
   * Simulation based approaches
