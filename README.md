@@ -15,3 +15,5 @@
 ## Stochastic Optimization
   * Simulation based approaches
   * Stochastic gradient descent and application to predictive maintainance
+  * Markov Chains and Markov Decision Processes
+  * Policy Iteration Algorithm and the Bellman's Equation
