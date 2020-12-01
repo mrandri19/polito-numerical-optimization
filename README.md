@@ -12,6 +12,14 @@
 
 ![](Lab4.svg)
 
+## Laboratory 5 (Newton Method and backtracking)
+
+## Laboratory 6 (Finite difference gradient, Hessian, and Jacobian)
+
+As well as Netwon method using numerically calculated gradients and Hessians.
+
+## Laboratory 7 (Inexact Newton method)
+
 ## Stochastic Optimization
   * Simulation based approaches
   * Stochastic gradient descent and application to predictive maintainance
