@@ -20,6 +20,8 @@ As well as Netwon method using numerically calculated gradients and Hessians.
 
 ## Laboratory 7 (Inexact Newton method)
 
+## Laboratory 8 (Newton method for nonlinear equations)
+
 ## Stochastic Optimization
   * Simulation based approaches
   * Stochastic gradient descent and application to predictive maintainance
