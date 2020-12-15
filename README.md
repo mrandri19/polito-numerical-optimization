@@ -22,6 +22,10 @@ As well as Netwon method using numerically calculated gradients and Hessians.
 
 ## Laboratory 8 (Newton method for nonlinear equations)
 
+## Laboratory 9 (Newton method for nonlinear equations with finite differences)
+
+## Laboratory 10 (Steepest Descend and Projected Gradient)
+
 ## Stochastic Optimization
   * Simulation based approaches
   * Stochastic gradient descent and application to predictive maintainance
