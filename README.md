@@ -26,6 +26,8 @@ As well as Netwon method using numerically calculated gradients and Hessians.
 
 ## Laboratory 10 (Steepest Descend and Projected Gradient)
 
+## Laboratory 11 (Constrained Quadratic programming with Schur complement and Null-Space methods)
+
 ## Stochastic Optimization
   * Simulation based approaches
   * Stochastic gradient descent and application to predictive maintainance
