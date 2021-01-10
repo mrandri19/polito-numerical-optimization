@@ -28,6 +28,8 @@ As well as Netwon method using numerically calculated gradients and Hessians.
 
 ## Laboratory 11 (Constrained Quadratic programming with Schur complement and Null-Space methods)
 
+## Laboratory 12 (Interior Point Method for Linear Programming)
+
 ## Stochastic Optimization
   * Simulation based approaches
   * Stochastic gradient descent and application to predictive maintainance
