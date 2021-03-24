@@ -9,7 +9,7 @@
 
 |![Unconstrained optimization report](https://mrandri19.github.io/index-images/unconstrained-optimization-report.jpg)|![Static stochastic optimization report](https://mrandri19.github.io/index-images/stochastic-optimization-report.jpg)|
 |:---------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------:|
-| Unconstrained optimization report | Static stochastic optimization report |
+| [Unconstrained optimization report](https://github.com/mrandri19/polito-numerical-optimization/blob/main/Relazione_Unconstrained_Optimization.pdf) | [Static stochastic optimization report](https://github.com/mrandri19/polito-numerical-optimization/blob/main/Relazione_Stochastic_Optimization.pdf) |
 
 ## Numerical Optimization Laboratories
 
