@@ -1,5 +1,16 @@
 # Numerical Optimization and Stochastic Optimization
 
+## Reports
+
+
+
+
+
+
+|![Unconstrained optimization report](https://mrandri19.github.io/index-images/unconstrained-optimization-report.jpg)|![Static stochastic optimization report](https://mrandri19.github.io/index-images/stochastic-optimization-report.jpg)|
+|:---------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------:|
+| Unconstrained optimization report | Static stochastic optimization report |
+
 ## Numerical Optimization Laboratories
 
 ### Laboratory 1 (Steepest descent and Conjugate gradient for linear systems)
